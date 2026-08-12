@@ -1,6 +1,6 @@
 RAG聊天助手是一个企业级的 AI 知识库管理系统，采用检索增强生成（RAG）技术，提供智能文档处理和检索能力。
 
-核心技术栈包括 ElasticSearch、Kafka、WebSocket、Spring Security、Docker、MySQL 和 Redis。
+核心技术栈包括 ElasticSearch、Kafka、WebSocket、Spring Security、Ollama、MySQL 和 Redis。
 
 它的目标是帮助企业和个人更高效地管理和利用知识库中的信息，支持多租户架构，允许用户通过自然语言查询知识库，并获得基于自身文档的 AI 生成响应。
 
